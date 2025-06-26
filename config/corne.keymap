@@ -40,16 +40,19 @@
         caps_word {
             bindings = <&caps_word>;
             key-positions = <17 18>;
+            layers = <0>;
         };
 
         esc {
             bindings = <&kp ESCAPE>;
             key-positions = <1 2>;
+            layers = <0>;
         };
 
         vol_up {
             bindings = <&kp C_VOLUME_UP>;
             key-positions = <11 23>;
+            layers = <0>;
         };
 
         combo_vol_down {

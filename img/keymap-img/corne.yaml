@@ -218,12 +218,15 @@ layers:
 combos:
 - p: [17, 18]
   k: ⇪ WORD
+  l: [default]
 - p: [1, 2]
   k: ESC
+  l: [default]
 - p: [11, 23]
   k: 'VOL
 
     UP'
+  l: [default]
 - p: [23, 35]
   k: 'VOL
 
