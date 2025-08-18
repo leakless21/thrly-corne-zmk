@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: corne}
 layers:
   default:
-  - ⌘
+  - ESC
   - Q
   - W
   - E
@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - ⌦
+  - ⌫
   - ⌃
   - {t: A, h: ⌘}
   - {t: S, h: ⎇}
@@ -37,7 +37,7 @@ layers:
   - {t: ., s: '>'}
   - /
   - ⎇
-  - ⌃
+  - ⌘
   - {t: ⎵, h: nav, s: _}
   - {t: ↹, h: kb_utils}
   - {t: ⏎, h: num}
@@ -190,7 +190,7 @@ layers:
   - MUTE
   - ⏯
   - ⏭
-  - ''
+  - EP TOG
   - ''
   - MOUSE ←
   - MOUSE ↓
@@ -220,7 +220,7 @@ combos:
   k: ⇪ WORD
   l: [default]
 - p: [1, 2]
-  k: ESC
+  k: ↹
   l: [default]
 - p: [11, 23]
   k: 'VOL
